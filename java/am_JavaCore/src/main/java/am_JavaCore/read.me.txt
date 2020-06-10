@@ -1,0 +1,13 @@
+
+---[read.me.txt]--------------------------------------------------------------
+
+*** 3 errors *** 
+
+* After you have imported the project, you will receive 3 erros in your console.
+  to solve this error, do the following things:
+1. right click the mouse button on project name "am_JavaCore"
+2. a menu will be open (popup menu)
+3. Select "Maven" 
+4. Select "Update Project..."
+
+*** problem solve
